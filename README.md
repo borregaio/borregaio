@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello! 👋 I'm Carlos
 
-<!--
-**borregaio/borregaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 I'm a junior front-end web developer.
+- 💻 I code clean, efficient, and responsive websites.
+- 💬 Ask me about front-end development, JavaScript, or web technologies.
+- 📫 Contact me at [c.borrega@proton.me].
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript (ES6+)**
+- **CSS3**
+- **HTML5**
+- **Bootstrap**
+- **jQuery**
+- **NodeJS**
+- **React**
+- **Git**
+
+Check out some of my pinned projects below or visit [my website](https://www.borrega.io/)
