@@ -16,4 +16,4 @@
 - **React**
 - **Git**
 
-Check out some of my pinned projects below or visit [my website](https://www.borrega.io/)
+Check out some of my pinned projects below and visit [my website](https://www.borrega.io/)
