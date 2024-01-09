@@ -7,9 +7,9 @@
 
 ## Tech Stack
 
-- **JavaScript (ES6+)**
-- **CSS3**
-- **HTML5**
+- **JavaScript**
+- **CSS**
+- **HTML**
 - **Bootstrap**
 - **jQuery**
 - **NodeJS**
