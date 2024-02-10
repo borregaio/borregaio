@@ -11,7 +11,7 @@
 - **HTML**
 - **CSS**
 - **NodeJS**
-- **React**
+- **ReactJS**
 - **Git**
 - **Bootstrap**
 - **jQuery**
