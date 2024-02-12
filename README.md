@@ -10,7 +10,7 @@
 - **JavaScript**
 - **HTML**
 - **CSS**
-- **NodeJS**
+- **Node.js**
 - **ReactJS**
 - **Git**
 - **Bootstrap**
