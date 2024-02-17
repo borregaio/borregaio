@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Carlos
+# Hello! I'm Carlos
 
 - 👨🏻‍💻 I'm a junior front-end developer.
 - 💻 I code clean, efficient, and responsive websites.
